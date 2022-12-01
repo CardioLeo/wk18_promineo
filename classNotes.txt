@@ -1,0 +1,204 @@
+# Author: William Z Chadwick
+# Date Created: 11/29/2022
+# Date Modified: 11/29/2022
+# Description: A place for my last class notes for Promineo Tech's Front End Bootcamp
+
+---
+
+Don't worry about the number of people who have applied, or when it was uploaded.
+
+projects, no need for a portfolio if you don't have multiple projects; [different for ]
+
+hunter.cl --> website, spreadsheet layouts, collumns, for job descriptions and stuff. accepted, rejected, helps keep track of all your job applications. This is such a great idea!
+
+another website that helps you filter out interview questions for the job which you're looking for: bigfrontend.dev
+
+---
+
+Some tests
+
+1.
+72 hours to finish, git commits, when you committed, etc.
+take home test/project
+Small increments!!!
+Descriptive Commit Messages...
+
+2.
+timed in person exercises within 1-2 hours
+3.
+live coding in front of someone else
+
+there will be an initial interview that covers basic personal stuff, but a second or third one will be about technical skills
+
+bigger companies will have more interviews. smaller, less.
+
+if they have big long 4+ hour interviews or screening, you can ask if it can be split up. [1 hour round x 4?]
+
+How do you practice for the coding part?
+
+resources, free code camp, etc. stuff like that. free stuff.
+
+Suggested course through resources, suggested by Stepanski.
+
+FreeCodeCamp --> [????] --> hackerRank --> leetCode
+
+book... pdf?
+
+all of this info is in a pinned message somewhere...
+
+Redux, Deployment.
+
+engineers... looking at resumes, quick looks and sustained looks. this is what people do. maybe 10 seconds.
+
+---
+
+9 Copied Pinned messages from the Slack chat:
+
+
+
+---
+
+more websites
+
+netnetbuy
+
+hiroku
+
+---
+
+Frank Stepanski
+
+
+React Resources
+
+React in 100 seconds
+https://www.youtube.com/watch?v=Tn6-PIqc4UM
+
+React documentation:
+https://beta.reactjs.org/ (beta)
+
+React video tutorials:
+https://www.youtube.com/watch?v=bMknfKXIFA8
+https://www.youtube.com/watch?v=Dorf8i6lCuk
+
+React cheatsheet:
+
+https://www.codecademy.com/learn/react-101/modules/react-101-jsx-u/cheatsheet
+https://dev.to/ericchapman/react-cheat-sheet-updated-may-2021-1mcd
+https://cheatsheets.shecodes.io/react
+https://codingcheats.io/react/
+
+Star Rating example:
+
+https://www.youtube.com/watch?v=eDw46GYAIDQ
+https://dev.to/michaelburrows/create-a-custom-react-star-rating-component-5o6
+
+
+React Code Examples:
+
+Map list: https://stackblitz.com/edit/react-7t3dee?file=src%2FApp.js
+
+Props: https://stackblitz.com/edit/react-2x3pba?file=src%2FApp.js
+
+State: https://stackblitz.com/edit/react-1vf8rt?file=src%2FApp.js
+
+Movie Review App (Week 3): https://stackblitz.com/edit/react-evlpp1
+
+useEffect hook:
+https://www.w3schools.com/react/react_useeffect.asp
+https://dmitripavlutin.com/react-useeffect-explanation/
+https://www.freecodecamp.org/news/react-useeffect-absolute-beginners/
+https://www.youtube.com/watch?v=QQYeipc_cik
+
+React and Fetching Data (using the useEffect hook)
+
+https://www.freecodecamp.org/news/fetch-data-react/
+https://blog.logrocket.com/modern-api-data-fetching-methods-react/
+https://www.youtube.com/watch?v=je3FTTunyp4
+
+Conditional Rendering:
+
+https://www.w3schools.com/react/react_conditional_rendering.asp
+https://www.youtube.com/watch?v=BMq69JNUZ_U
+
+React Router:
+
+https://reactrouter.com/en/main/start/tutorial
+https://www.youtube.com/watch?v=59IXY5IDrBA
+
+Styling:
+
+https://www.freecodecamp.org/news/how-to-style-react-apps-with-css/
+https://www.youtube.com/playlist?list=PLC3y8-rFHvwgu-G08-7ovbN9EyhF_cltM (styled components)
+
+Component Folder Structure:
+
+https://blog.webdevsimplified.com/2022-07/react-folder-structure/
+https://www.youtube.com/watch?v=UUga4-z7b6s
+https://www.robinwieruch.de/react-folder-structure/
+https://www.joshwcomeau.com/react/file-structure/
+https://medium.com/@kumarvinoth/finally-a-better-react-js-folder-structure-821a2210835
+
+Redux
+
+https://www.youtube.com/watch?v=_shA5Xwe8_4&t=19s
+https://www.youtube.com/watch?v=zrs7u6bdbUw
+https://www.youtube.com/watch?v=9zySeP5vH9c&t=939s
+
+Deployment
+
+https://www.netlify.com/
+https://vercel.com/solutions/react
+https://render.com/ (fullstack)
+
+Job Sites
+
+https://huntr.co/ (organizing job submissions)
+https://echojobs.io/jobs?q=frontend
+https://www.keyvalues.com/
+https://otta.com/
+https://www.techjobsforgood.com/
+
+Interview Prep Questions
+
+https://bigfrontend.dev/
+https://30secondsofinterviews.org/
+
+Coding Exercises (algorithms)
+
+https://www.freecodecamp.org/learn/coding-interview-prep/
+https://app.codility.com/programmers/lessons/1-iterations/
+https://www.hackerrank.com/
+https://leetcode.com/
+
+(edited)
+
+:pray:
+1
+
+Nov 2nd at 6:44 PM
+
+ 
+Frank Stepanski
+
+
+Videos on the HOF methods of Arrays:
+
+https://www.youtube.com/watch?v=R8rmfD9Y5-c&t=257s
+https://www.youtube.com/playlist?list=PLDlWc9AfQBfZGZXFb_1tcRKwtCavR7AfT
+
+Note: Variables declared without var, let, or const in javascript are always in the global scope.
+https://www.youtube.com/watch?v=6UAKBYpUC-Y (edited) 
+
+Aug 25th at 3:54 AM
+
+
+ Frank Stepanski
+
+
+Wonderful podcast on learning to code. This particular episode focuses on mistakes people make learning to code.
+
+https://www.codenewbie.org/podcast/what-are-some-common-relatable-mistakes-people-make-when-learning-to-code (edited) 
+:+1:
+2
+Aug 3rd at 11:15 AM

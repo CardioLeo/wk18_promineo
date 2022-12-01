@@ -1,0 +1,67 @@
+#
+#
+#
+#
+
+---
+
+Frank Stepanski
+Questions for Class
+If you have a question for class, post it here and I will check it before each live class. :nerd_face:
+https://docs.google.com/document/d/1OXcXf7sCMv_TNZwxhH-qf7iiAglUHl7Z5TxH0x0TBWA/edit?usp=sharing (edited)
+Aug 3rd at 11:19 AM
+
+
+
+Kristina Macias
+Good morning/afternoon!
+Here's a slide deck that goes over some of the content covered in yesterday's live coding.
+:raised_hands:
+1
+:gratitude-thank-you:
+2
+
+Jul 29th at 10:22 AM
+
+
+
+Frank Stepanski
+Hi Everyone,
+There is discord channel is you want to join:
+https://discord.gg/62sEh7dKrd
+Discord
+Join the FE Dev Student Group Discord Server!
+Check out the FE Dev Student Group community on Discord - hang out with 92 other members and enjoy free voice and text chat. (6 kB)
+https://discord.gg/62sEh7dKrd
+
+Aug 1st at 11:09 AM
+
+
+
+Kristina Macias
+Hey guys,
+If anyone's curious about where to find info about office hours:
+https://learn.promineotech.com/calendar/view.php?view=upcoming
+Jul 29th at 1:03 PM
+
+
+
+Nick Suwyn
+set the channel topic: Weekly Zoom Meeting: https://us02web.zoom.us/j/7874144954Jul 25th at 2:09 PM
+
+
+
+Kristina Macias
+Hi all!
+My name is Kristina. I will be your mentor and your main point of contact for any curriculum questions you may have during the next 18 weeks. You are also free to book a mentor session with any of our mentors, based on preference and scheduling needs.
+A little bit about me: I graduated from the Front End Bootcamp in October 2021. Outside of coding, I love camping, board games, video games and making music.
+
+
+Learning software development can be challenging, so asking questions regularly is highly encouraged! I can be reached via email and Slack (preferred). You may also post questions in your cohort-specific channel and Slack General. In addition, office hours are a great resource for help and extra practice.
+It is also highly encouraged that you get to know your peers. We have seen a lot of success when students create study groups!
+If you’d like to setup a 30-minute meeting with me, here is my calendar:
+https://calendly.com/kristina-macias-1/mentor-appointment-front-end?month=2022-07&date=2022-07-29
+CalendlyCalendly
+Mentor Appointment - Front End - Kristina Macias
+A few notes: We'll meet on Zoom Please ensure that your time-zone is selected when booking Please send me a GitHub link to your code, so I can prepare for our meeting.
+Jul 27th at 2:37 PM
